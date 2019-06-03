@@ -1,37 +1,6 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/vinyasayoga/Ashtanga-yoga-teacher/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vinyasayoga/Ashtanga-yoga-teacher/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<h1>Who is Taken Yoga to the West?</h1>
+<p>Yoga is a set of practices for the wellbeing of physical, mental, and spiritual health by following specific discipline, which was originated in ancient India. These days, Yoga is highly accepted by people across the world as a healthy way of living, irrespective of their religion, tradition, or country. There is no place on the earth where people are unaware of the benefits of Yoga, which is the reason why June 21 is celebrated as the international Yoga day.</p> 
+<h2>Who introduced Yoga to the West?</h2>
+<p>The 18th century is marked as the age of introduction of Yoga in the western part of the world. The main goal of Yoga and the yogis is to attain harmony of the body and mind with extensive asanas and techniques. People in these countries were always impressed by Yogic techniques and benefits. But, it was Sri T. Krishnamacharya who influenced his students for the popularizing of Yoga amongst the common masses. He is widely known as the father of modern Yoga. He taught his yoga skills and techniques to his students, including BKS Iyengar, Pattabhi Jois, and Indra Devi. These are the people who are responsible for the immense popularity of Yoga in countries like the U.S., Australia, etc.</p> 
+<p>In the late 1940s, Indra Devi was the one who started teaching yoga asana in various parts of Hollywood in the U.S. She stayed there for a couple of decades and later spread her knowledge in Mexico and California. After this, she left for Argentina in the year 1982. In 1966, B. K. S. Iyengar was the one who published a guide on various asana practices, called “Light on Yoga.” After which, in the 1970s, K. Pattabhi Jois spread his knowledge about Yoga in the U.S. and Australia. He is also the founder of Ashtanga yoga and is responsible for <a href="https://rishikeshvinyasayogaschool.com/ashtanga-yoga-teacher-training-rishikesh-india/">Ashtanga yoga teacher training</a> in western countries. Yogi Bhajan is also amongst those people who enhance the popularity of yoga techniques in the West. In the year 1968, he settled in California to teach and spread his knowledge on Kundalini yoga.</p>
+<p>After this period, many multiple yoga styles have been invented in the West. This led to the development of Yoga in different ranges along with sharing the intention of mind and body balance. Although the interpretation of the concepts may differ in various retreat centers and schools.</p> 
